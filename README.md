@@ -46,7 +46,7 @@ pip install numpy pandas matplotlib scikit-learn xgboost tensorflow keras
 Utilisation
 Clonez le dépôt et exécutez le script principal :
 
-git clone https://github.com/Niqaise/diabetic-retinopathy-classification.git
+git clone https://github.com/Niqaise/Proj-H419/blob/main/Projet%20419%20Classification.ipynb
 cd diabetic-retinopathy-classification
 python main.py
 Assurez-vous que le jeu de données est placé dans le bon dossier ou modifiez le chemin dans le script.
